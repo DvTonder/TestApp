@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.dvtonder.testapp.MainActivity">
+
+    <item android:id="@+id/action_toggle_dark"
+          android:title="Toggle dark mode"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/action_toggle_new"
+          android:title="Toggle new item"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+</menu>

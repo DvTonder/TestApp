@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material design app colors -->
+    <color name="colorPrimary">#3462b3</color>
+    <color name="colorPrimary2">#4079de</color>
+    <color name="colorPrimaryDark">#294d8c</color>
+    <color name="colorAccent">#3462b3</color>
+
+    <!-- Status bar, contextual app bars -->
+    <color name="colorAccentLight">#4584f0</color>
+    <color name="colorAccentLight_transparent">#604584f0</color>
+
+</resources>
